@@ -15,5 +15,7 @@ namespace ResturantRater.Models
 
         public int Rating { get; set; }
 
+        //Checking  git hub ///
+
     }
 }
