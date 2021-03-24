@@ -23,7 +23,7 @@ namespace ResturantRater.Models
     public class ResturantDbContext : DbContext
     {
         public DbSet<Resturant> Resturants { get; set; }
-
+        //temp//
     }
 
 }
